@@ -6,7 +6,7 @@ Using publicly available West Nile Virus data, I have manipulated and analyzed i
 ## Deliverables
 
 * [Medium Article: West Nile Virus Disease Cases in the United States](https://natalyabakhshetyan.medium.com/west-nile-virus-disease-cases-in-the-united-states-8b3e18e92422)
-* More Deliverables Coming Soon
+* [Tableau Dashboard: West Nile Virus Disease Cases in the United States](https://public.tableau.com/views/WestNileVirusDiseaseCasesintheUnitedStatesfrom1999to2019/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
 ## Tools
